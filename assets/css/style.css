@@ -257,17 +257,16 @@ nav.navbar.bootsnav .navbar-toggle i{color: #000000;}
 /*.header-text-area*/
 .header-text h2 {
     color: #fff;
-    font-size: 54px;
+    font-size: 5.4rem;
     font-weight: 700;
     text-transform: uppercase;
     line-height: 1.5;
 }
-.header-text h3 span {color: #84d8ff;}
+.header-text h3 span {color: #84d8ff; font-size: 6.4rem;}
 .header-text p {
     color: #fff;
-    font-size: 18px;
+    font-size: 1.8rem;
     font-weight: 300;
-    /*text-transform: uppercase;*/
     margin: 30px 100px 60px 100px;
     letter-spacing: 1px;
 }
